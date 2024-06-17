@@ -38,6 +38,7 @@
     "Python.TASK_1.executor": "Run",
     "Python.TASK_2.executor": "Run",
     "Python.TASK_3.executor": "Run",
+    "Python.TASK_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop"
   }

@@ -1,6 +1,6 @@
 def delete_last_line(input_path, output_path):
     with open(input_path, "r") as file:             # open file (r = read)
-        lines = file.readlines()                    # used to read file  > saveds it to lines
+        lines = file.readlines()                    # used to read file  > saved it to lines
 
         lines = lines[:-1]                          # removes the last line
 

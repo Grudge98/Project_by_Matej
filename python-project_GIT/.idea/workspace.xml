@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6585aad6-7ca8-4780-a601-79e7c49d6e61" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stuff/Ukoly/Module_files/TASK_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stuff/Ukoly/Module_files/TASK_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     "Python.TASK_2.executor": "Run",
     "Python.TASK_3.executor": "Run",
     "Python.TASK_4.executor": "Run",
+    "Python.TASK_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop"
   }
